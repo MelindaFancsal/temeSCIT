@@ -7,7 +7,5 @@ public class CalculatorMain {
         int result = calculator.sum("1+2+3");
 
         System.out.println(result);
-
-      //  int divideResult = calculator.divide(1,0);
     }
 }
